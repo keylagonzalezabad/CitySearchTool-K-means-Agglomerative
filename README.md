@@ -5,7 +5,7 @@ City Search Tool Using Unsupervised Learning Algorithms
 
 ## City Search Tool
 
-- Purpose: Find a suitible city to move in according to your priorities/personality traits. 
+- Purpose: Find a suitable city to move in according to your priorities/personality traits. 
 
 ### Database
 
