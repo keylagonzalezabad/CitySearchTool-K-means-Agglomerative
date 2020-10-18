@@ -21,6 +21,7 @@ City Search Tool Using Unsupervised Learning Algorithms
 
 ### Results
 
-<img src="https://user-images.githubusercontent.com/65777681/96364428-4168ee00-1100-11eb-9043-0fcf2a2658d7.PNG" width="400">
+<img src="https://user-images.githubusercontent.com/65777681/96364428-4168ee00-1100-11eb-9043-0fcf2a2658d7.PNG" width="500">
 
-<img src="https://user-images.githubusercontent.com/65777681/96364440-504fa080-1100-11eb-874f-f881fe60325c.PNG" width="400">
+
+<img src="https://user-images.githubusercontent.com/65777681/96364440-504fa080-1100-11eb-874f-f881fe60325c.PNG" width="500">
