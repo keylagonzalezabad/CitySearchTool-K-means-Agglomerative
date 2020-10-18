@@ -19,9 +19,14 @@ City Search Tool Using Unsupervised Learning Algorithms
 
 4) Weather (e.g. Temperature)
 
-### Results
-
 <img src="https://user-images.githubusercontent.com/65777681/96364428-4168ee00-1100-11eb-9043-0fcf2a2658d7.PNG" width="500">
 
+### Results
 
 <img src="https://user-images.githubusercontent.com/65777681/96364440-504fa080-1100-11eb-874f-f881fe60325c.PNG" width="500">
+
+<img src="https://user-images.githubusercontent.com/65777681/96364482-7f661200-1100-11eb-9359-e4fd4cd15ba6.PNG" width="500">
+
+<img src="https://user-images.githubusercontent.com/65777681/96364490-8d1b9780-1100-11eb-811d-4bd22ff330b6.PNG" width="500">
+
+<img src="https://user-images.githubusercontent.com/65777681/96364522-9d337700-1100-11eb-9ff4-1c5f1305e0de.PNG" width="500">
