@@ -1,6 +1,8 @@
 # TAMU-Datathon-2020
 City Search Tool Using Unsupervised Learning Algorithms
 
+<img src="https://user-images.githubusercontent.com/65777681/96364428-4168ee00-1100-11eb-9043-0fcf2a2658d7.PNG" width="500">
+
 ## City Search Tool
 
 - Purpose: Find a suitible city to move in according to your priorities/personality traits. 
@@ -18,8 +20,6 @@ City Search Tool Using Unsupervised Learning Algorithms
 3) Cost of living index (e.g. Cost of Living Index	Rent Index	Cost of Living Plus Rent Index	Groceries Index	Restaurant Price Index	Local Purchasing Power Index)
 
 4) Weather (e.g. Temperature)
-
-<img src="https://user-images.githubusercontent.com/65777681/96364428-4168ee00-1100-11eb-9043-0fcf2a2658d7.PNG" width="500">
 
 ### Results
 
