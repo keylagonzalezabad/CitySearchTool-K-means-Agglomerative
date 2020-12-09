@@ -30,3 +30,9 @@ City Search Tool Using Unsupervised Learning Algorithms
 <img src="https://user-images.githubusercontent.com/65777681/96364490-8d1b9780-1100-11eb-811d-4bd22ff330b6.PNG" width="500">
 
 <img src="https://user-images.githubusercontent.com/65777681/96364522-9d337700-1100-11eb-9ff4-1c5f1305e0de.PNG" width="500">
+
+### Tutorial videos
+
+https://www.youtube.com/watch?v=lH3Yo372oNU&feature=youtu.be (KMeans and Agglomerative Clustering (City Search Tool) with Python Example - Part 1)
+
+ (KMeans and Agglomerative Clustering  (City Search Tool) with Python Example - Part 2
